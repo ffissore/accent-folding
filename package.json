@@ -1,0 +1,25 @@
+{
+  "name": "accent-folding",
+  "description": "An accent folding module for node",
+  "keywords": ["accent", "folding", "text", "normalization", "unaccenting"],
+  "version": "0.0.1",
+  "author": "Federico Fissore <federico@fissore.org>",
+  "contributors": [
+    {
+      "name": "Carlos Bueno",
+      "email": "carlos@bueno.org"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ffissore/accent-folding"
+  },
+  "main": "./accent-fold",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ]
+}
+
